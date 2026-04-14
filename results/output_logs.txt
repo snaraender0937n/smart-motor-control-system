@@ -1,0 +1,36 @@
+SYSTEM OUTPUT LOGS
+
+System Idle
+Motor ON Time: 0
+Motor ON Time: 1
+Motor ON Time: 2
+Motor ON Time: 3
+Motor ON Time: 4
+Motor ON Time: 5
+Motor ON Time: 6
+Motor ON Time: 7
+Motor ON Time: 8
+Motor ON Time: 9
+Motor ON Time: 10
+Motor ON Time: 11
+Motor ON Time: 12
+Motor ON Time: 13
+Motor ON Time: 14
+Motor ON Time: 15
+Motor ON Time: 16
+Motor ON Time: 17
+Motor ON Time: 18
+Motor ON Time: 19
+Motor ON Time: 20
+
+Conveyor ON Time: 0
+Conveyor ON Time: 1
+Conveyor ON Time: 2
+Conveyor ON Time: 3
+Conveyor ON Time: 4
+Conveyor ON Time: 5
+Conveyor ON Time: 6
+Conveyor ON Time: 7
+Conveyor ON Time: 8
+
+System Idle
