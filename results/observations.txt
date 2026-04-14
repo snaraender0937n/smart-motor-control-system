@@ -1,0 +1,43 @@
+SMART MOTOR CONTROL SYSTEM - OBSERVATIONS
+
+1. System Initialization:
+- On power ON, LCD displays "System Starting"
+- After 2 seconds, system enters "System Idle" state
+
+2. Start Operation:
+- When START button or mobile command is given:
+  • System waits for 5 seconds (delay stage)
+  • Motor turns ON after delay
+
+3. Motor Operation:
+- Motor runs continuously for 20 seconds
+- LCD displays "Motor ON" with real-time timer
+- Webpage shows live motor status and time
+
+4. Conveyor Operation:
+- After motor stops, conveyor starts automatically
+- Conveyor runs for 8 seconds
+- LCD and webpage update accordingly
+
+5. Stop Operation:
+- System stops immediately when STOP button or mobile command is given
+- All outputs turn OFF
+- System returns to idle state
+
+6. Dual Control:
+- Both hardware buttons and WiFi control work simultaneously
+- No conflict observed between control methods
+
+7. Communication:
+- UART communication between STM32 and ESP32 is stable
+- Protocol (M, C, I) works correctly
+
+8. Display:
+- LCD shows accurate and stable output without flicker
+- Webpage auto-refresh updates status every second
+
+9. Timing Accuracy:
+- Delay and operation times are consistent and accurate
+
+CONCLUSION:
+The system performs reliably with synchronized hardware and IoT control.
